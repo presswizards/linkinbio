@@ -1,0 +1,35 @@
+{
+  "profile": {
+    "name": "Rob Marlbrough",
+    "tagline": "Helping professionals build better businesses",
+    "gravatarEmail": "support@presswizards.com",
+    "bio": "I'm Rob — WordPress developer, and founder of Press Wizards."
+  },
+  "social": {
+    "x": "https://x.com/presswizards",
+    "linkedin": "https://linkedin.com/in/robmarlbrough",
+    "email": "https://support.presswizards.com/help/3204241733",
+    "wordpress": "https://profiles.wordpress.org/5starplugins/",
+    "github": "https://github.com/presswizards/",
+    "bluesky": "https://bsky.app/profile/downtownrob.bsky.social"
+  },
+  "links": [
+    {
+      "title": "Press Wizards",
+      "url": "https://presswizards.com"
+    }
+  ],
+  "blog": {
+    "rssFeed": "https://presswizards.com/feed/",
+    "wordCount": 75
+  },
+  "support": {
+    "buttonText": "Buy Me a Coffee ☕️",
+    "url": "https://www.buymeacoffee.com/robwpdev"
+  },
+  "contact": {
+    "buttonText": "Contact Me ✉️",
+    "url": "https://support.presswizards.com/help/3204241733"
+  },
+  "theme": "kubrik"
+} 
